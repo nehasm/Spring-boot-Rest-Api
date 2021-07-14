@@ -5,6 +5,7 @@ Spring boot is a spring-based framework that makes building spring applications 
 The APIs builds over the https://www.kaggle.com/ronidas39/zomato-india-data-set zomato Kaggle dataset. 
 With the rest implementation, it needs processing to get data from a CSV file into MySQL database. 
 Spring batch framework helps in chuck-based processing with multi-threads.
+This repository is helpful for new developers to quick start with spring boot rest development.
 
 
 Implementation involves:
