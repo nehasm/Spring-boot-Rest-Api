@@ -1,4 +1,4 @@
-# Spring-Boot-Rest-Api
+# Spring Boot Rest Api
 
 This project describes the representation of restful API in spring boot. 
 Spring boot is a spring-based framework that makes building spring applications easier. The project aims to build the rest architecture.
