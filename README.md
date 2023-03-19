@@ -16,7 +16,7 @@ Spring Boot
 
 Spring Rest
 
-Spring Data JPA 
+Spring Data JPA  
 
 Spring Hateoas 
 
